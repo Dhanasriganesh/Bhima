@@ -169,7 +169,7 @@ function Home() {
           </p>
           <div className="flex flex-wrap gap-4 justify-center">
             <Link to="/contact" className="btn-primary">Get a Quote</Link>
-            <a href="tel:+919876543210" className="btn-outline">Call Now</a>
+            <a href="tel:+919849339891" className="btn-outline">Call Now</a>
           </div>
         </div>
       </section>

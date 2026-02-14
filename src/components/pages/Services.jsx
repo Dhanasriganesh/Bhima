@@ -1,28 +1,28 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 
-const HERO_IMG = 'https://images.unsplash.com/photo-1519225421980-715cb0215a3b?w=1920&q=80'
+const HERO_IMG = 'https://content.jdmagicbox.com/comp/def_content_category/food-and-catering-services/institutes-for-catering-6-institutes-for-catering-5-fjv7i-food-and-catering-services-4-ud7fc.jpg'
 
 const EVENT_SERVICES = [
   {
     title: 'Wedding Catering',
     desc: 'From engagement to reception — full-service wedding feasts. Custom menus, elegant setup, and seamless service so you can enjoy your big day.',
-    img: 'https://images.unsplash.com/photo-1519225421980-715cb0215a3b?w=800&q=80',
+    img: 'https://kasikannucateringworld.in/img/blog/what-are-the-benefits-of-hiring-a-professional-wedding-catering-company.webp',
   },
   {
     title: 'Party & Functions',
     desc: 'Birthdays, anniversaries, kitty parties and more. We bring the flavour and fun while you host with confidence.',
-    img: 'https://images.unsplash.com/photo-1574484284002-952d92456975?w=800&q=80',
+    img: 'https://cdn0.weddingwire.in/vendor/5590/3_2/640/png/set-up20221105-222135-15-435590-167314845787642_15_435590-168899683161615.jpeg',
   },
   {
     title: 'Corporate Events',
     desc: 'Seminars, conferences, office parties and client meets. Professional catering that impresses and satisfies.',
-    img: 'https://images.unsplash.com/photo-1544025162-d76694265947?w=800&q=80',
+    img: 'https://divinecaterers.in/wp-content/uploads/2024/04/image4-2.webp',
   },
   {
     title: 'Small Gatherings',
     desc: 'Intimate dinners, family get-togethers and small celebrations. Same quality and care, scaled to your guest list.',
-    img: 'https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?w=800&q=80',
+    img: 'https://www.culinaryproductionsbr.com/wp-content/uploads/2020/08/Catering-Display-for-Birthday-Party-Baton-Rouge.jpg',
   },
 ]
 

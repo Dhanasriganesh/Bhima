@@ -94,7 +94,7 @@ function Contact() {
                       value={form.phone}
                       onChange={handleChange}
                       className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:ring-2 focus:ring-[var(--color-gold)] focus:border-[var(--color-gold)] outline-none transition"
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 9849 339891"
                     />
                   </div>
                 </div>
@@ -182,8 +182,8 @@ function Contact() {
                   </span>
                   <div>
                     <h3 className="font-heading text-lg font-semibold text-[var(--color-charcoal)]">Phone</h3>
-                    <a href="tel:+919876543210" className="text-[var(--color-warm-gray)] hover:text-[var(--color-gold)] transition-colors">
-                      +91 98765 43210
+                    <a href="tel:+919849339891" className="text-[var(--color-warm-gray)] hover:text-[var(--color-gold)] transition-colors">
+                      +91 9849 339891
                     </a>
                   </div>
                 </div>
@@ -193,8 +193,8 @@ function Contact() {
                   </span>
                   <div>
                     <h3 className="font-heading text-lg font-semibold text-[var(--color-charcoal)]">Email</h3>
-                    <a href="mailto:info@shreebhimacaterers.com" className="text-[var(--color-warm-gray)] hover:text-[var(--color-gold)] transition-colors">
-                      info@shreebhimacaterers.com
+                    <a href="mailto:indoor.reddy99@gmail.com" className="text-[var(--color-warm-gray)] hover:text-[var(--color-gold)] transition-colors">
+                    indoor.reddy99@gmail.com
                     </a>
                   </div>
                 </div>

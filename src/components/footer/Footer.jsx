@@ -55,19 +55,19 @@ function Footer() {
             <ul className="space-y-3 text-gray-400 text-sm">
               <li className="flex items-center gap-2">
                 <span className="text-[var(--color-gold)]">📞</span>
-                <a href="tel:+919876543210" className="hover:text-[var(--color-gold)] transition-colors">
-                  +91 98765 43210
+                <a href="tel:+919849339891" className="hover:text-[var(--color-gold)] transition-colors">
+                  +91 9849 339891
                 </a>
               </li>
               <li className="flex items-center gap-2">
                 <span className="text-[var(--color-gold)]">✉️</span>
-                <a href="mailto:info@shreebhimacaterers.com" className="hover:text-[var(--color-gold)] transition-colors">
-                  info@shreebhimacaterers.com
+                <a href="mailto:indoor.reddy99@gmail.com" className="hover:text-[var(--color-gold)] transition-colors">
+                indoor.reddy99@gmail.com
                 </a>
               </li>
               <li className="flex items-start gap-2">
                 <span className="text-[var(--color-gold)]">📍</span>
-                <span>Your City, State — We serve everywhere</span>
+                <span>Gautami Vidya Chairman School, S.R.Nagar, Hyd-500038</span>
               </li>
             </ul>
           </div>
